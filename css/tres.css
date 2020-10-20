@@ -1,0 +1,48 @@
+*{
+    margin: auto;
+    padding: auto;
+}
+
+h1{
+    font-size: 30px;
+    font-family: fantasy;
+    text-align: center;
+}
+td{
+    border: 1px solid black;
+   width: 100px;
+   height: 100px;
+}
+table{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+#celda0{
+    border-top: 1px solid white;
+    border-left: 1px solid white;
+}
+#celda1{
+    border-top: 1px solid white;
+}
+#celda2{
+    border-right: 1px solid white;
+    border-top: 1px solid white;
+}
+#celda3{
+    border-left: 1px solid white;
+}
+#celda5{
+    border-right: 1px solid white;
+}
+#celda6{
+    border-left: 1px solid white;
+    border-bottom: 1px solid white;
+}
+#celda7{
+    border-top: 1px solid white;
+    border-bottom: 1px solid white;
+}
+#celda8{
+    border-right: 1px solid white;
+    border-bottom: 1px solid white;
+}
