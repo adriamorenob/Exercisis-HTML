@@ -7,41 +7,25 @@ h1{
     font-size: 30px;
     text-align: center;
 }
-td{
-    border: 1px solid black;
-   width: 100px;
-   height: 100px;
-}
 table{
-    border: 1px solid black;
-    border-collapse: collapse;
+    margin: auto;
 }
-#celda0{
-    border-top: 1px solid white;
-    border-left: 1px solid white;
+
+td{
+    width: 100px;
+    height: 100px;
 }
-#celda1{
-    border-top: 1px solid white;
+
+.vertical{
+    border-left: 2px solid black;
+    border-right: 2px solid black;
 }
-#celda2{
-    border-right: 1px solid white;
-    border-top: 1px solid white;
+
+.horitzontal{
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
 }
-#celda3{
-    border-left: 1px solid white;
-}
-#celda5{
-    border-right: 1px solid white;
-}
-#celda6{
-    border-left: 1px solid white;
-    border-bottom: 1px solid white;
-}
-#celda7{
-    border-top: 1px solid white;
-    border-bottom: 1px solid white;
-}
-#celda8{
-    border-right: 1px solid white;
-    border-bottom: 1px solid white;
+
+.tot{
+    border: 2px solid black
 }
