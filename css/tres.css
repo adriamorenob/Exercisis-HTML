@@ -14,8 +14,7 @@ table{
 td{
     width: 100px;
     height: 100px;
-    background-color: orange
-;
+    background-color: orange;
 }
 
 .vertical{
@@ -29,5 +28,5 @@ td{
 }
 
 .tot{
-    border: 2px solid black
+    border: 2px solid black;
 }
